@@ -22,7 +22,7 @@ jobs:
     - name: Start SUT
       run: |
         java -jar ./artifacts/app-card-delivery.jar &
-        sleep 3
+       
     
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
