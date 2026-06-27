@@ -1,6 +1,6 @@
 # Автотесты для сервиса карт доставки
 
-[![Java CI with Gradle](https://github.com/alishass1/card-delivery-tests/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/alishass1/card-delivery-tests/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/alishass1/card-delivery-tests/actions/workflows/gradle.yml/badge.svg)](https://github.com/alishass1/card-delivery-tests/actions/workflows/gradle.yml)
 
 ## Описание
 
